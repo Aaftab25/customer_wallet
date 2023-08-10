@@ -1,0 +1,25 @@
+a:6:{s:1:"k";s:32:"39352769312ea54d0fbeb1476da9af8d";s:1:"d";a:4:{s:4:"data";a:8:{i:0;a:9:{s:11:"products_id";i:1;s:9:"imagename";s:23:"business-card_thumb.jpg";s:19:"product_description";s:123:"<p><strong>Creative Business Cards to Impress Clients!</strong></p>
+
+<p>Create cards that make the first impression</p>
+";s:14:"products_title";s:23:"Standard Business Cards";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:23:"standard-business-cards";s:10:"sort_order";i:-1;s:9:"image_alt";N;}i:1;a:9:{s:11:"products_id";i:7;s:9:"imagename";s:18:"brochure_thumb.jpg";s:19:"product_description";s:145:"<p><strong>Beauteous Brochures for Information Dissemination</strong></p>
+
+<p>Build best brochures to broadcast the business information.</p>
+";s:14:"products_title";s:9:"Brochures";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:9:"brochures";s:10:"sort_order";i:0;s:9:"image_alt";N;}i:2;a:9:{s:11:"products_id";i:5;s:9:"imagename";s:19:"envelopes_thumb.jpg";s:19:"product_description";s:132:"<p><strong>Enticing Envelopes to Package the Message!</strong></p>
+
+<p>Compel clients to view content of inviting envelopes.</p>
+";s:14:"products_title";s:9:"Envelopes";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:9:"envelopes";s:10:"sort_order";i:0;s:9:"image_alt";N;}i:3;a:9:{s:11:"products_id";i:36;s:9:"imagename";s:26:"flyers-both-side_thumb.jpg";s:19:"product_description";s:130:"<p><strong>Fabulous Flyers to Advertise Far and Wide</strong></p>
+
+<p>Fashion a fine flyer and add value to your business.</p>
+";s:14:"products_title";s:16:"Flyers Both Side";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:16:"flyers-both-side";s:10:"sort_order";i:0;s:9:"image_alt";N;}i:4;a:9:{s:11:"products_id";i:20;s:9:"imagename";s:23:"greeting-card_thumb.jpg";s:19:"product_description";s:133:"<p><strong>Graceful Greeting and Invitation Cards</strong></p>
+
+<p>Give customers greeting/invitation cards for any occasion.</p>
+";s:14:"products_title";s:14:"Greeting Cards";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:14:"greeting-cards";s:10:"sort_order";i:0;s:9:"image_alt";N;}i:5;a:9:{s:11:"products_id";i:3;s:9:"imagename";s:20:"letterhead_thumb.jpg";s:19:"product_description";s:162:"<p><strong>Likeable Letterhead to Boost Business </strong><strong>Likelihood!</strong></p>
+
+<p>Head or tail, a nice letterhead elicits reply without fail.</p>
+";s:14:"products_title";s:10:"Letterhead";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:10:"letterhead";s:10:"sort_order";i:0;s:9:"image_alt";N;}i:6;a:9:{s:11:"products_id";i:4;s:9:"imagename";s:18:"postcard_thumb.jpg";s:19:"product_description";s:127:"<p><strong>Picturesque Postcards for Mass Marketing</strong></p>
+
+<p>Provide personal flavor to mass marketing efforts.</p>
+";s:14:"products_title";s:9:"Postcards";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:9:"postcards";s:10:"sort_order";i:0;s:9:"image_alt";N;}i:7;a:9:{s:11:"products_id";i:24;s:9:"imagename";s:16:"poster_thumb.jpg";s:19:"product_description";s:131:"<p><strong>Promotinal Posters for Business Progress</strong></p>
+
+<p>Produce posters to promote your clients&#39; business.</p>
+";s:14:"products_title";s:7:"Posters";s:24:"product_promotional_text";N;s:6:"status";s:1:"1";s:11:"product_url";s:7:"posters";s:10:"sort_order";i:0;s:9:"image_alt";N;}}s:12:"affectedRows";i:8;s:9:"foundRows";i:-1;s:11:"recordCount";i:8;}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2023-08-11 10:58:05.173231";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Asia/Calcutta";}s:1:"g";a:2:{i:0;s:7:"product";i:1;s:8:"opsCache";}s:1:"m";N;s:1:"c";N;}

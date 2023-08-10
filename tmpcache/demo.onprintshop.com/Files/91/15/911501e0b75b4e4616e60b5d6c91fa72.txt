@@ -1,0 +1,1 @@
+a:6:{s:1:"k";s:35:"dashboard_sales_statelastweek_0_1_0";s:1:"d";a:1:{i:0;a:2:{s:12:"total_amount";N;s:11:"totalorders";i:0;}}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2023-08-10 23:59:59.624127";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Asia/Calcutta";}s:1:"g";a:1:{i:0;s:8:"opsCache";}s:1:"m";N;s:1:"c";N;}

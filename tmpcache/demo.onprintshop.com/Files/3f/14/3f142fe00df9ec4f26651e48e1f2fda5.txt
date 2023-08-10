@@ -1,0 +1,1 @@
+a:6:{s:1:"k";s:32:"fb5419a6d905ab8bbb1daeb2c1b4470b";s:1:"d";a:4:{s:4:"data";a:0:{}s:12:"affectedRows";i:0;s:9:"foundRows";i:0;s:11:"recordCount";i:0;}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2023-08-11 10:58:05.696488";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Asia/Calcutta";}s:1:"g";a:2:{i:0;s:7:"product";i:1;s:8:"opsCache";}s:1:"m";N;s:1:"c";N;}
